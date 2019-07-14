@@ -1,0 +1,1 @@
+ : D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-auth-base-9.2.0\bin\AndroidManifest.xml \

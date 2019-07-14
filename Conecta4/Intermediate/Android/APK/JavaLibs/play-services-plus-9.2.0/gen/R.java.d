@@ -1,0 +1,22 @@
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\gen\com\google\android\gms\plus\R.java \
+ : D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-hdpi-v4\ic_plusone_medium_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-hdpi-v4\ic_plusone_small_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-hdpi-v4\ic_plusone_standard_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-hdpi-v4\ic_plusone_tall_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-mdpi-v4\ic_plusone_medium_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-mdpi-v4\ic_plusone_small_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-mdpi-v4\ic_plusone_standard_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-mdpi-v4\ic_plusone_tall_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-tvdpi-v4\ic_plusone_medium_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-tvdpi-v4\ic_plusone_small_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-tvdpi-v4\ic_plusone_standard_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-tvdpi-v4\ic_plusone_tall_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-xhdpi-v4\ic_plusone_medium_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-xhdpi-v4\ic_plusone_small_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-xhdpi-v4\ic_plusone_standard_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-xhdpi-v4\ic_plusone_tall_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-xxhdpi-v4\ic_plusone_medium_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-xxhdpi-v4\ic_plusone_small_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-xxhdpi-v4\ic_plusone_standard_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\res\drawable-xxhdpi-v4\ic_plusone_tall_off_client.png \
+D:\Documents\Unreal\C4IATontaLimpio\Intermediate\Android\APK\JavaLibs\play-services-plus-9.2.0\bin\AndroidManifest.xml \
